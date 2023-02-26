@@ -1,0 +1,45 @@
+.body{
+    margin: 0;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+}
+
+.hero{
+    display:flex;
+    flex-direction: column;
+    background-color: #1F2937;
+}
+.header-link{
+    display: flex;
+    align-items: center;
+    gap:18px;
+}
+.hero-text{
+    font-size: 48px;
+    font-weight:bolder;
+    color:#F9fAF8
+}
+
+.sec-header{
+    display:flex;
+    flex-direction: column;
+}
+
+.image-holder{
+  display:flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.text-field{
+    display: flex;
+    flex-direction: column;
+}
+img{
+    width :100px;
+    height:100px;
+}
