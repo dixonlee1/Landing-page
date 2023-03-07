@@ -90,3 +90,22 @@ a{
     width: 460px;
     height: 460px;
 }
+.random-text{
+    background-color: #E5E7EB;
+    padding:100px;
+    font-style:  italic;
+    font-size: 36px;
+    color:#1F2937;
+    font-weight: lighter;
+    margin:0;
+}
+
+.random-text p{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+b{
+    margin-top: 200px;
+}
