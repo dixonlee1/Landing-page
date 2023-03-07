@@ -109,3 +109,34 @@ a{
 b{
     margin-top: 200px;
 }
+
+
+
+.signup-bar{
+    font-size: 16px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:100px;
+    margin:60px;
+    border: 2px solid #3385ff;
+    padding:20px 0 20px 0;
+    border-radius: 10px;
+    background-color: #3385ff;
+    color: white;
+    
+}
+
+.signup-button{
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    font-size: 16px;
+    margin-top:15px;
+    padding: 7px 28px;
+    background-color:#3385ff;
+    color:white;
+    border:2px solid white;
+    font-weight: bold;
+}
